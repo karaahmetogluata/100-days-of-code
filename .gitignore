@@ -1,0 +1,24 @@
+# PyCharm settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Course solutions (Angela's reference solutions)
+**/solution.py
+**/task/
+**/Inputs/
+**/Printing/
+**/Variables/
+**/Variable Naming/
+**/String Manipulation/
+**/Band Name Generator Project/
+**/task.md
+**/task-info.yaml
+**/task-remote-info.yaml
+**/task_tr.md
+**/task.py
+
+# OS files
+.DS_Store
