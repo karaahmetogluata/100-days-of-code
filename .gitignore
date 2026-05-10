@@ -22,3 +22,10 @@ __pycache__/
 
 # OS files
 .DS_Store
+# JetBrains EduTools / course platform files
+**/lesson-info.yaml
+**/lesson-remote-info.yaml
+**/course-info.yaml
+**/course-remote-info.yaml
+**/__init__.py
+**/game_data.py
